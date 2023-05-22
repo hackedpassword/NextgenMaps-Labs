@@ -28,4 +28,4 @@ I choose The Great Unciv Rework as I felt the nuace changes from standard Unciv 
 ## Don't be scrd!
 I'm continually updating this map, though since you see it here, taking input and feedback on what you thought would be an interesting addition. I can merge or replace elements already placed if your feedback is more interesting than my placements.
 
-Send your feedback topics and discussion to Discord, #custom-maps/Castles testlab feedback
+Send your feedback topics and discussion to Discord, #custom-maps/[Castles testlab feedback](https://discord.com/channels/586194543280390151/1020315309783138324/threads/1110290632603357194)
