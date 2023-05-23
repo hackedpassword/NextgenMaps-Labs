@@ -3,13 +3,13 @@ Proving grounds for Nextgen-Maps.
 
 ![](/preview.png)
 
-# Castles - v3, The Great Unciv Rework
+# Castles - v4, The Great Unciv Rework
 
 - Size: Large
 - Design Objective: Medieval country side, populated
 - Desired feedback: Microstories of various locales that are either absent or obviously in need of improvement. Gameplay derives from microstories.
 
-![](/images/castles_v3.png)
+![](/images/castles_v4.png)
 
 ## Overview
 
