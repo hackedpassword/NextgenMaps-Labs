@@ -25,7 +25,7 @@ Normally, maps are balanced with balanced reources and balanced terrain and give
 There's adventure here. I get a bit of old school rpg nostalgia in this map. These microstories may contribute to a larger tale, a grander scope of the land. So much could be said, in just a few well-considered tiles.
 
 ## Mod - ruleset
-I choose The Great Unciv Rework as I felt the nuace changes from standard Unciv best applied here. If the player so desires go Vanilla or G&K, it'll hold with only slight variation.
+I chose The Great Unciv Rework as I felt the nuace changes from standard Unciv best applied here. If the player so desires go Vanilla or G&K, it'll hold with only slight variation.
 
 ## Don't be scrd!
 I'm continually updating this map, though since you see it here, taking input and feedback on what you thought would be an interesting addition. I can merge or replace elements already placed if your feedback is more interesting than my placements.
