@@ -10,7 +10,7 @@
   {
     "name":"castles",
     "ruleset":"The-Great-Unciv-Rework", // primary ruleset
-    "modCompatibility":"Rekmod,Vanilla", // additional versions, where [mapname-[ruleset]] can be specified, see example: Nextgen-Maps::hexworld (3 versions)
+    "modCompatibility":"Rekmod,Vanilla", // additional versions, where [mapname-[ruleset]] can be specified, see example: Nextgen-Maps::hexworld (3 ruleset versions with ruleset specific resources)
     "topic":"unciv-mod-map",
     "desc":"Medieval plains",
     "tags":"Large,Hexagonal,Manual"
