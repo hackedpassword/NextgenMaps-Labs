@@ -9,7 +9,7 @@ Proving grounds for [Nextgen-Maps](https://github.com/hackedpassword/Nextgen-Map
 - Design Objective: Medieval country side, populated
 - Desired feedback: Microstories of various locales that are either absent or obviously in need of improvement. Gameplay derives from microstories.
 
-![](/images/castles_v4.png)
+![](/images/castles_v5.png)
 
 ## Overview
 
