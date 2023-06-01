@@ -1,9 +1,9 @@
 # NextgenMaps-Labs
-Proving grounds for Nextgen-Maps.
+Proving grounds for [Nextgen-Maps](https://github.com/hackedpassword/Nextgen-Maps).
 
 ![](/preview.png)
 
-# Castles - v4, The Great Unciv Rework
+# Castles v5, mod: The Great Unciv Rework
 
 - Size: Large
 - Design Objective: Medieval country side, populated
@@ -14,13 +14,6 @@ Proving grounds for Nextgen-Maps.
 ## Overview
 
 Some areas are meant to be spacious and vast. Others are blank canvases. Unciv resources are very limited in terms of laying down terrain, resources, improvements, etc, so microstories are told in the simplest ways possible. Mixing and matching these elements provide fuzzy soft interpretation of /what might/ be happening here or there.
-
-That's not good enough for me. Things happen for reasons. Evolution. Weather. War. Nature. Events that tie to each other, or are artifacts of events. Microstories should apply to anyone's imagination without absolution in the facts. It might seem obvious that this scene resulted from this factor, but perhaps it was that other one. Subtle clues spur subjective rhyme and reason.
-
-
-
-## Balance
-Normally, maps are balanced with balanced reources and balanced terrain and give everyone a fair chance. This will not be the typical balanced map. Whatsoever. The world is not fair. Some are rich, some are poor, some just got dealt a bad hand. Your civilization can make it, can succeed, and the player that can tactically secure points of the map that are crucial not to simply overpowering their opponents, but out-strategizing them, maybe because they got comfy sitting on luxuries for instance, the player's tenacity will reward them.
 
 There's adventure here. I get a bit of old school rpg nostalgia in this map. These microstories may contribute to a larger tale, a grander scope of the land. So much could be said, in just a few well-considered tiles.
 
