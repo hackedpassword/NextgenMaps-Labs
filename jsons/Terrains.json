@@ -71,7 +71,7 @@
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
-	{
+	{  // Can we make tundra add movement to units? 
 		"name": "Tundra",
 		"type": "Land",
 		"food": 1,
@@ -83,7 +83,7 @@
             "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
             "[+2] to Fertility for Map Generation",
-	    "[2] Movement",
+	    "[+1 Movement for all units]",
             "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
