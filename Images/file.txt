@@ -1,1 +1,0 @@
-Beginnings of moving from images/ to Images/
