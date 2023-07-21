@@ -2,7 +2,7 @@
     isBaseRuleset: false,
     modUrl: "https://github.com/hackedpassword/NextgenMaps-Labs",
     uniques:[
-        "[+1] Movement <for [Land] units>"
+        "[+1] Movement <for [All] units>"
     ],
     constants:{
 
