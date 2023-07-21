@@ -1,4 +1,4 @@
-{
+[
     { 
      "name": "Revealer", 
      "cost": 0, 
@@ -8,4 +8,4 @@
        "Limited to [1] per Civilization" 
        ]
     }
-} 
+] 
