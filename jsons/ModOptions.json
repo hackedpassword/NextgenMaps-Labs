@@ -1,0 +1,10 @@
+{
+    isBaseRuleset: false,
+    modUrl: "https://github.com/hackedpassword/NextgenMaps-Labs",
+    uniques:[
+        "[+1] Movement <for all [Land] units>",
+    ],
+    constants:{
+
+    }
+}
