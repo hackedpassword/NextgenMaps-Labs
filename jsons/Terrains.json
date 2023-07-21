@@ -83,7 +83,7 @@
             "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
             "[+2] to Fertility for Map Generation",
-	    "[+1 Movement for all units]",
+            "[+1] Movement <for [Land] units>",
             "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
