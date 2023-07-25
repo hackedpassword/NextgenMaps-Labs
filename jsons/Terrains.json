@@ -21,9 +21,11 @@
 	{ // testing fake land
 		"name": "Xland",
 		"type": "Land",
-		"food": 6,
-		"movementCost": 1,
-        "RGB": [255, 0, 0],
+		"food": 10,
+		"gold": 10,
+		"production": 10,
+		"movementCost": 0, // this should make infinite movement
+        "RGB": [255, 0, 0]
         },
 	{
 		"name": "Grassland",
