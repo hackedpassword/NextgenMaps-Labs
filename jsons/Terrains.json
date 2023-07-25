@@ -24,6 +24,9 @@
 		"food": 10,
 		"gold": 10,
 		"production": 10,
+		"science": 10,
+		"culture": 10,
+		"faith": 10,
 		"movementCost": 0, // this should make infinite movement
         "RGB": [255, 0, 0]
         },
