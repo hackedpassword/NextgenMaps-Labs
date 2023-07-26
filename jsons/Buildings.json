@@ -2,10 +2,11 @@
     {  // borrowing this while testing
      "name": "Portal Gate", 
      "cost": 0, 
+     "uniqueTo": "China", 
      "uniques": [ 
        "Can only be built [in capital]", "[2] free [Worker] units appear",
        "Reveals the entire map", "[+10 Food, +10 Production, +10 Gold] from [Tundra, Grassland, Plains] tiles without [Flood plains] [in this city]", 
-       "Limited to [1] per Civilization", "uniqueTo": "China", 
+       "Limited to [1] per Civilization", 
        "[+10] population [in all cities]", "[+100 Happiness] [in all cities]"
         ]
     }
