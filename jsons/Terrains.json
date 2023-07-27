@@ -28,7 +28,7 @@
 		"culture": 10,
 		"faith": 10,
 		"movementCost": 0, // this should make infinite movement
-        "RGB": [255, 0, 0]
+                "RGB": [255, 0, 0]
         },
 	{
 		"name": "Grassland",
@@ -88,7 +88,7 @@
 		"name": "Tundra",
 		"type": "Land",
 		"food": 1,
-		"movementCost": 0.5,
+		"movementCost": 1,
 		"RGB": [30, 113, 69],
 		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
             "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
