@@ -155,7 +155,7 @@
 		"name": "Oil",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
-		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill"], # Adding Hill
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill"], // Adding Hill
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
 		"improvementStats": {"production": 3},
@@ -420,7 +420,7 @@
 	{
 		"name": "Citrus",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Flood plains","Hill"], # Adding Hill
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Flood plains","Hill"], // Adding Hill
 		"food": 1,
 		"gold": 1,
 		"improvement": "Plantation",
