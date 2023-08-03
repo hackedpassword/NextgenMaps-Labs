@@ -1,9 +1,30 @@
 
 game.png
-size: 512, 64
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/HexaRealm/Tiles/Marsh
+  rotate: false
+  xy: 4, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mountain
+  rotate: false
+  xy: 76, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mountain2
+  rotate: false
+  xy: 148, 60
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Tundra
   rotate: false
   xy: 4, 4
@@ -13,21 +34,21 @@ TileSets/HexaRealm/Tiles/Tundra
   index: -1
 TileSets/HexaRealm/Tiles/Tundra2
   rotate: false
-  xy: 76, 4
+  xy: 220, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tundra3
   rotate: false
-  xy: 148, 4
+  xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Xland
   rotate: false
-  xy: 220, 4
+  xy: 292, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
