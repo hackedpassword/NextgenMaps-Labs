@@ -18,7 +18,7 @@ TileSets/HexaRealm/Tiles/Citadel
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Citris
+TileSets/HexaRealm/Tiles/Citrus
   rotate: false
   xy: 148, 60
   size: 64, 64
