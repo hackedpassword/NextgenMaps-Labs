@@ -155,7 +155,7 @@
 		"name": "Oil",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
-		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill"], // Adding Hill
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill","Forest"], // Adding Hill, Forest
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
 		"improvementStats": {"production": 3},
@@ -194,7 +194,7 @@
 		"name": "Uranium",
 		"resourceType": "Strategic",
 		"revealedBy": "Atomic Theory",
-		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
+		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Swamp"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
