@@ -1,10 +1,1 @@
-{
-    isBaseRuleset: false,
-    modUrl: "https://github.com/hackedpassword/NextgenMaps-Labs",
-    uniques:[
-        "[+1] Movement <for [All] units>"
-    ],
-    constants:{
-
-    }
-}
+{"lastUpdated":"2023-08-03T16:34:28Z","modUrl":"https://github.com/hackedpassword/NextgenMaps-Labs","defaultBranch":"main","author":"hackedpassword","modSize":2953,"topics":["unciv-mod","unciv-mod-maps","unciv-mod-wip"],"constants":{"unitUpgradeCost":{}}}
