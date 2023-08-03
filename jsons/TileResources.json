@@ -178,7 +178,7 @@
 		"name": "Aluminum",
 		"resourceType": "Strategic",
 		"revealedBy": "Electricity",
-		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
+		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle","Plains","Grassland"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
