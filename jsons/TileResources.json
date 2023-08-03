@@ -155,7 +155,7 @@
 		"name": "Oil",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
-		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill","Forest"], // Adding Hill, Forest
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle","Hill","Forest","Grassland"], // Adding Hill, Forest, Grassland
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
 		"improvementStats": {"production": 3},
