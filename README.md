@@ -3,6 +3,9 @@ Proving grounds for [Nextgen-Maps](https://github.com/hackedpassword/Nextgen-Map
 
 ![](/preview.png)
 
+# Update
+Current version of Castles is no longer compatible with The Great Unciv Rework. I'll need to make a couple updates to fix this.
+
 # Castles v7, mod: The Great Unciv Rework
 
 - Size: Large
