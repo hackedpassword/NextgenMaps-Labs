@@ -5,11 +5,11 @@ Proving grounds for [Nextgen-Maps](https://github.com/hackedpassword/Nextgen-Map
 
 # Map: Castles
 
-Compatible with The Great Unciv Rework (ruleset mod)
-Current version: v10
-Size: Large
-Design Objective: Medieval country side, populated
-Gameplay: Gameplay derives from untold microstories via placement of improvements and terrain.
+- Compatible with The Great Unciv Rework (ruleset mod)
+- Current version: v10
+- Size: Large
+- Design Objective: Medieval country side, populated
+- Gameplay: Gameplay derives from untold microstories via placement of improvements and terrain.
 
 The latest mod update changes how "Lake" functions, so lakes are dried up plains, until the mod updates this.
 
